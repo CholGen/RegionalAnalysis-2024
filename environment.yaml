@@ -1,0 +1,21 @@
+name: RegionalAnalysis_2024
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python <3.12,>=3.9
+  - pandas
+  - geopandas
+  - numpy
+  - jupyterlab
+  - jupyter
+  - bcftools = 1.17
+  - treetime
+  - matplotlib
+  - dendropy
+  - notebook
+  - scikit-learn
+  - seaborn
+  - treetime
+  - pip:
+      - baltic
