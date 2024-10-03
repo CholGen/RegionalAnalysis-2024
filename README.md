@@ -1,5 +1,5 @@
 # Multicountry genomic analysis underscores regional cholera spread in Africa
-Authors: TBD
+**Authors**: Gerald Mboowa, Nathaniel Lucero Matteson, Collins Kipngetich Tanui, Mpanga Kasonde, Guyguy Kusanzangana Kamwiziku, Olusola Anuoluwapo Akanbi, Jucunú Johane Elias Chitio, Mathews Kagoli, Rene Ghislain Essomba, Alisen Ayitewala, Isaac Ssewanyana, Blaise Mboringong Akenji, Adrienne Aziza Amuri, Andrew S Azman, Olajumoke Atinuke Babatunde, Valentina Josiane Ngo Bitoungui, Espoir Malembaka Bwenge, Francis Ongole, Chimaobi Emmanuel Chukwu, Nália Ismael, Otridah Kapona, Osvaldo Laurindo, Placide Kingebeni Mbala, Georges Alain Etoundi Mballa, Imelda Carlos Zulfa Miambo, Alex Ansaye Mwanyongo, Grace Najjuka, Joseph Mutale, Kunda Musonda, Allan Muruta Niyonzima, Mirriam Ethel Nyenje, Michael Popoola, Doreen Shempela, Christiane Medi Sike, Sofião Manjor Sitoe, Dorcas Waruguru Wanjohi, Placide Okitayemba Welo, Mtisunge Yelewa, Sebastian Yennan, Lucius Ziba, CholGen Consortium, Joseph Ephram Bitilinyu-Bangoh, Roma Chilengi, Hamsatou Hadja, Jide Idris, José Paulo Maurício Langa, Daniel Bamuleka Mukadi, Susan Nabadda, Amanda K Debes, David A Sack, Jean Kaseya, Yenew Kebede Tebeje, Shirlee Wohl, Sofonias Kifle Tessema
 
 DOI: TBD
 ## Abstract
