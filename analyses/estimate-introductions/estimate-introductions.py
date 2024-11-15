@@ -72,7 +72,7 @@ def get_introductions( tree, field, interest, inclusion_dict, root_height=0 ):
             node_dict["earliest_date"] = min( children_dates )
             node_dict["latest_date"] = max( children_dates )
             inclusion_dates = [date for child, date in zip( node_dict["children.names"], children_dates ) if
-                               not inclusion_dict[child]]
+                               not inclusion_dict.get( child, True )]   # Some taxa might be missing from the dictionary/metadata because they were removed as duplicates after the beast run. However, these are all workshop sequences so we can set missing to True. 
             try:
                 node_dict["earliest_date_ncg"] = min( inclusion_dates )
                 node_dict["latest_date_ncg"] = max( inclusion_dates )
