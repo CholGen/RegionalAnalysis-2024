@@ -18,5 +18,7 @@ dependencies:
   - seaborn
   - treetime
   - snakemake
+  - augur
+  - snp-sites
   - pip:
       - baltic
